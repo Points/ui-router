@@ -1,7 +1,7 @@
 {
-  "name": "angular-ui-router",
+  "name": "@points/angular-ui-router",
   "description": "State-based routing for AngularJS",
-  "version": "0.2.15-pts",
+  "version": "0.2.15",
   "homepage": "http://angular-ui.github.com/",
   "contributors": [
     {
@@ -62,5 +62,9 @@
     "grunt-conventional-changelog": "~1.1.0",
     "grunt-ngdocs": "~0.2.5"
   },
-  "main": "release/angular-ui-router.js"
+  "main": "release/angular-ui-router.js",
+  "publishConfig": {
+    "registry": "http://tor-npm.points.com:5984/registry/_design/app/_rewrite",
+    "scope": "@points"
+  }
 }
