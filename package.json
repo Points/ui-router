@@ -26,10 +26,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular-ui/ui-router.git"
+    "url": "https://github.com/points/ui-router.git"
   },
   "bugs": {
-    "url": "https://github.com/angular-ui/ui-router/issues"
+    "url": "https://github.com/points/ui-router/issues"
   },
   "licenses": [
     {
