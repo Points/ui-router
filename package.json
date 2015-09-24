@@ -1,5 +1,5 @@
 {
-  "name": "@points/angular-ui-router",
+  "name": "angular-ui-router",
   "description": "State-based routing for AngularJS",
   "version": "0.2.18",
   "homepage": "http://angular-ui.github.com/",
